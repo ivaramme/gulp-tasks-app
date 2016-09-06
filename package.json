@@ -1,0 +1,10 @@
+{
+  "name": "gulp-tasks",
+  "dependencies": {
+    "gulp-util": "*",
+    "gulp-concat": "*",
+    "gulp-watch": "*",
+    "gulp-connect": "*",
+    "require-dir": "*"
+  }
+}
